@@ -1,6 +1,7 @@
 ---
 title: Cheating on Exams with Simulated User Input
 date: 2026-01-17 02:12:00 +0100
+image: /assets/img/fc31032b-95d2-425d-a6cb-4b53b06d5ce0.png
 categories: [Exploit]
 tags: [exploit, cheating]     # TAG names should always be lowercase
 ---
