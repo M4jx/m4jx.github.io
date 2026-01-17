@@ -1,6 +1,6 @@
 ---
 title: Cheating on Exams with Simulated User Input
-date: 2026-01-13 13:15:00 +0100
+date: 2026-01-17 02:12:00 +0100
 categories: [Exploit]
 tags: [exploit, cheating]     # TAG names should always be lowercase
 ---
